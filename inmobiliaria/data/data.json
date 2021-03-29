@@ -1,33 +1,36 @@
 [
     {
+        "id":1,
         "Name": "The Willows",
         "Adress":"357 W. Gray S.t Utica",
         "Rooms": 3,
         "Bathrooms" : 2,
-        "area": 230,
-        "rent": 440,
+        "area": "230",
+        "rent": "440",
         "evaluation": 4.7,
         "favorite": false,
         "imgUrl": "https://d25rq8gxcq0p71.cloudfront.net/dictionary-images/324/home.jpg"
     },
     {
+        "id":2,
         "Name": "Orchard House",
         "Adress":"323 H. Jhon S.t Mai",
         "Rooms": 3,
         "Bathrooms" : 1,
-        "area": 200,
-        "rent": 400,
+        "area": "200",
+        "rent": "400",
         "evaluation": 3.9,
         "favorite": false,
         "imgUrl": "http://helpinghangovers.com/wp-content/uploads/2020/12/hero_home-1.jpeg"
     },
     {
+        "id":3,
         "Name": "Corner House",
         "Adress":"323 H. Jhon S.t Mai",
         "Rooms": 2,
         "Bathrooms" : 2,
-        "area": 200,
-        "rent": 330,
+        "area": "200",
+        "rent": "330",
         "evaluation": 4.2,
         "favorite": false,
         "imgUrl": "https://images.adsttc.com/media/images/5df2/65bc/3312/fd36/3600/0312/large_jpg/CornerHouse_RoryGardiner_012.jpg?1576166797"
