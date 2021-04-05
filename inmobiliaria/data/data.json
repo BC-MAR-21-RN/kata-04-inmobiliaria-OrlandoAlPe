@@ -2,7 +2,7 @@
     {
         "id":1,
         "Name": "The Willows",
-        "Adress":"357 W. Gray S.t Utica",
+        "Adress":"357 W. Gray S.t",
         "Rooms": 3,
         "Bathrooms" : 2,
         "area": "230",
@@ -14,7 +14,7 @@
     {
         "id":2,
         "Name": "Orchard House",
-        "Adress":"323 H. Jhon S.t Mai",
+        "Adress":"356 W. Gray S.t",
         "Rooms": 3,
         "Bathrooms" : 1,
         "area": "200",
@@ -26,7 +26,7 @@
     {
         "id":3,
         "Name": "Corner House",
-        "Adress":"323 H. Jhon S.t Mai",
+        "Adress":"321 H. Jhon S.t",
         "Rooms": 2,
         "Bathrooms" : 2,
         "area": "200",
@@ -34,6 +34,30 @@
         "evaluation": 4.2,
         "favorite": false,
         "imgUrl": "https://images.adsttc.com/media/images/5df2/65bc/3312/fd36/3600/0312/large_jpg/CornerHouse_RoryGardiner_012.jpg?1576166797"
+    },
+    {
+        "id":4,
+        "Name": "Dirt House",
+        "Adress":"421 Low valley St",
+        "Rooms": 0,
+        "Bathrooms" : 1,
+        "area": "10",
+        "rent": "3",
+        "evaluation": 0.2,
+        "favorite": false,
+        "imgUrl": "https://lh3.googleusercontent.com/proxy/iNe-eAq_2Pom0vs1BR3mGY7OSvkIEi387LWhdZ6o6decLB6vyqfDZzLFUZqqfFWbm1cYoIvl11vDLy0vqkO21sXNGVesRRu_6EVxwygmB6dDDkYI0woAwu7AU5Z4tWwYyE13zLhQ5n65xTTlJICxsQ"
+    },
+    {
+        "id":5,
+        "Name": "Steve's House",
+        "Adress":"5 Iron Ore St",
+        "Rooms": 4,
+        "Bathrooms" : 3,
+        "area": "250",
+        "rent": "999",
+        "evaluation": 4.9,
+        "favorite": false,
+        "imgUrl": "https://i.pinimg.com/originals/6e/ce/62/6ece62aba2c9a76fb2096ab16b7ae2a5.jpg"
     }
 
 ]
