@@ -33,7 +33,7 @@
   - Los datos se tomarán de manera local en formato JSON, puede ser una archivo, clase o constante 
 - Calidad
   - Utilizar un estilo de código estandarizado (revisado por Eslint)
-  - Puntuación **A** obtenida en [CodeClimate](https://codeclimate.com/)
+  - Puntuación **A** obtenida en [CodeClimate](https://codeclimate.com/) <a href="https://codeclimate.com/github/BC-MAR-21-RN/kata-04-inmobiliaria-OrlandoAlPe/maintainability"><img src="https://api.codeclimate.com/v1/badges/c330eaef855a581708dd/maintainability" /></a>
 - Ejecución 
   - Puede ejecutarse en Android o iOs
 - Código fuente
